@@ -1,0 +1,9 @@
+Oct  9 10:01:12 server sshd[1021]: Failed password for root from 192.168.1.50 port 4022 ssh2
+Oct  9 10:01:15 server sshd[1021]: Failed password for root from 192.168.1.50 port 4023 ssh2
+Oct  9 10:01:18 server sshd[1021]: Failed password for admin from 192.168.1.50 port 4024 ssh2
+Oct  9 10:01:21 server sshd[1021]: Failed password for admin from 192.168.1.50 port 4025 ssh2
+Oct  9 10:02:03 server sshd[1033]: Accepted password for monisha from 10.0.0.5 port 5100 ssh2
+Oct  9 10:03:40 server sshd[1040]: Failed password for test from 203.0.113.9 port 6001 ssh2
+Oct  9 10:03:44 server sshd[1040]: Failed password for test from 203.0.113.9 port 6002 ssh2
+Oct  9 10:04:10 server sshd[1051]: Failed password for user from 198.51.100.7 port 7001 ssh2
+Oct  9 10:05:22 server sshd[1060]: Failed password for root from 203.0.113.9 port 6010 ssh2
